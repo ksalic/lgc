@@ -25,10 +25,8 @@
             </a>
             </div>
           </div>
-
           <div class="desktop_megamenu_navigation">
             <br-component component="menu" />
-
           </div>
         </header>
         <div>
